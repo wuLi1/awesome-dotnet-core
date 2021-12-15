@@ -1,4 +1,6 @@
-# 说明
+#学习C#
+
+说明
 此项目是[awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)中文版，根据个人对项目的理解进行说明，有些是google翻译，有空会继续修改，如有错误，欢迎指正。  
 最后一次同步时间：2021-02-08（每月同步一次）  
       
